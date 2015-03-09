@@ -6,6 +6,6 @@ A Responsive HTML template using bootstrap, FontAwesome created to mimic the one
 
 Licensed under [MIT](LICENSE).
 
-- [] Use javascript scrollbar
-- [] Create more pages
-- [] Minify js and css
+- [ ] Use javascript scrollbar
+- [ ] Create more pages
+- [ ] Minify js and css
